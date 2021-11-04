@@ -1,0 +1,29 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    
+---
+
+# This is Jeff's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+## Links
+
+Let's link to useful tools for data science
+
+* [Google](https://www.google.com/)
+* [p8105](https://www.p8105.com/)
+
+## Local Image
+
+Here is a poster for riboflavin
+
+![](images/Moses - Riboflavin is my favorite metabolite.png)
+
+## Link to page within the site
+
+I can make an extra page on my site and link to that. Here is my [about](about.html) page
